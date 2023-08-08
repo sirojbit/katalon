@@ -23,7 +23,8 @@ Feature: Title of your feature
   @tag1
   Scenario Outline: Title of your scenario outline
     Given I want to write a step with <adasdad>
-    When I check for the <value> in step
+    When I check for the <value> in step www
+   
     Then I verify the <status> in step
 
     Examples: 
